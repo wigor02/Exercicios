@@ -166,8 +166,7 @@ aside a:hover {
     background-color: var(--cor0);
     color: var(--cor5);
     font-size: 1em;
-    padding: 12px;
-    margin: -15px;
+    padding: 5px 5px ;
     box-shadow: 3px 3px 8px hsla(0, 0%, 0%, 0.281);
 }
 
